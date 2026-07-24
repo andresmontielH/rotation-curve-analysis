@@ -1,2 +1,2 @@
-# rotation-curve-analysis
+# Rotation-curve-analysis
 Python package for galaxy rotation curve fitting and scientific data analysis.
